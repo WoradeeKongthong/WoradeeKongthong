@@ -7,7 +7,7 @@ Skills: Python / Machine Learning / Deep Learning
 - 🌱 I’m currently learning Computer Vision 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WoradeeKongthong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sammy.kongthong)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WoradeeKongthong)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WoradeeKongthong&show_icons=true)  
 
